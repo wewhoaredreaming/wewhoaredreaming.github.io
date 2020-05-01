@@ -464,7 +464,7 @@ input, select, textarea {
 					-moz-object-position: center;
 					-webkit-object-position: center;
 					-ms-object-position: center;
-					object-position: center;
+					object-position: left;
 					-moz-transition: opacity 0.75s ease-in-out;
 					-webkit-transition: opacity 0.75s ease-in-out;
 					-ms-transition: opacity 0.75s ease-in-out;
